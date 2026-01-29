@@ -1,5 +1,7 @@
 # EVIS: Hệ thống Tìm kiếm Thông tin Hình ảnh có tính Giải thích (Explainable Visual Information System)
 
+[![GitHub Repository](https://img.shields.io/badge/GitHub-EVIS-blue?logo=github)](https://github.com/CallingSun/EVIS)
+
 EVIS là một hệ thống tìm kiếm đa phương thức tiên tiến, cho phép kết hợp Hình ảnh, Văn bản, OCR (Nhận diện chữ viết trong ảnh) và Metadata của sự kiện (thời gian, địa điểm, tên sự kiện) vào một không gian vector thống nhất. Hệ thống sử dụng các mô hình State-of-the-Art như CLIP để trích xuất đặc trưng và tích hợp khả năng giải thích (Explainability) thông qua bản đồ nhiệt (Heatmaps).
 
 ## 🚀 Tính năng chính
