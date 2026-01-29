@@ -1,0 +1,25 @@
+# Virtual environments
+venv/
+.env/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Data and results
+data/*.index
+data/*.pkl
+data/demo_images/
+data/test_images/
+results/
+
+# IDEs
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
